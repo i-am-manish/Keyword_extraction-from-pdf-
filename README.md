@@ -30,11 +30,12 @@ print("Keywords:", keywords)
 ```
 
 
-NOTE :
+ABOUT FILES :
 
-1. "Keyword _extraction.ipynb" contains main code
+1."Keyword _extraction.ipynb" contains main code
 
 2."pred_output.csv" contains output
 
 3."rake.py" is main file to be imported
 
+NOTE: Credit goes to https://pypi.org/project/rake-nltk/ ,and i have merely created a wrapper to simply understand
