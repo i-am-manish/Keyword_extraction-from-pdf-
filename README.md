@@ -28,3 +28,13 @@ keywords = rake_object.run(text)
 # 3. print results
 print("Keywords:", keywords)
 ```
+
+
+NOTE :
+
+1. "Keyword _extraction.ipynb" contains main code
+
+2."pred_output.csv" contains output
+
+3."rake.py" is main file to be imported
+
