@@ -32,6 +32,8 @@ print("Keywords:", keywords)
 
 ABOUT FILES :
 
+0."Java-Basics-notes.pdf" is pdf file which i used
+
 1."Keyword _extraction.ipynb" contains main code
 
 2."pred_output.csv" contains output
